@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Yes</title>
+</head>
+
+<body>
+<div class="Yes-page">
+    <div class="container_3">
+        <div class="buttons_line_2">
+            <div class="survival">
+                <a class="buttons_2" href="survival.html">
+                    <img src="images/survival.jpg" alt="">
+                </a>
+            </div>
+            <div class="creative">
+                <a class="buttons_2" href="creative.html">
+                    <img src="images/creative.jpg" alt="">
+                </a>
+            </div>
+
+            <div class="steve">
+                <img src="images/steve.gif" alt="">
+            </div>
+        </div>
+
+
+</body>
+</html>

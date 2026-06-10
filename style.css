@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+}
+.container{
+    margin: 0px 740px;
+}
+.header{
+    background-image: url("images/bg_1.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.buttons_line{
+    padding-top:514px ;
+    display: flex;
+}
+.buttons{
+    margin-right: 36px;
+}
+.pig{
+    margin: -550px 50px;
+}
+
+
+
+.container_2{
+    margin:0px 800px
+}
+
+.Nо-page{
+    background-image: url("images/bg_2.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.hearts{
+    padding-left:-320px;
+    padding-top: 35px;
+}
+
+.back-button{
+    padding-top: 525px;
+    padding-left: 40px;
+}
+
+
+
+
+
+.container_3{
+    margin: 0px 740px;
+}
+
+.steve{
+    margin: 100px -380px;
+}
+
+
+.Yes-page{
+    background-image: url("images/bg_3.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.buttons_line_2{
+    padding-top:514px ;
+    display: flex;
+}
+
+.buttons_2{
+    margin-right: 36px;
+}
+
+
+
+.Creative{
+    background-image: url("images/bg_4.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.next-button{
+    padding-top: 475px;
+    padding-left: 1150px;
+}
+.bee1{
+    padding-left:800px ;
+    padding-top: 100px ;
+}
+.bee2{
+    padding-left:200px ;
+    padding-top:-100px ;
+}
+
+
+
+.next-button_2{
+    padding-top: 505px;
+    padding-left: 1150px;
+}
+.Survival{
+    background-image: url("images/bg_5.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+.container_6{
+    margin: 0px 500px
+}
+
+.phone{
+    padding-top: 20px;
+    padding-left: 450px;
+}
+.final{
+    background-image: url("images/bg_6.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ig-button{
+    padding-top: 255px;
+    padding-left: -200px;
+}
+
